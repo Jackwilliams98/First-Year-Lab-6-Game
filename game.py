@@ -404,6 +404,8 @@ def end_game():
 
 # This is the entry point of our program
 def main():
+    print("You have been kicked out of university!")
+    print("")
     print("To win the game, you must return all of the items to the Reception.")
     print("Press ENTER to continue")
     input()
